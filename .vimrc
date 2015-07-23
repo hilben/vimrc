@@ -33,6 +33,7 @@ Plugin 'altercation/vim-colors-solarized'
 "html javascript css
 Plugin 'pangloss/vim-javascript'
 Plugin 'mattn/emmet-vim'
+Plugin 'othree/html5.vim'
 
 call vundle#end()
 
